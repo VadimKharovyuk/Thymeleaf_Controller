@@ -19,6 +19,7 @@ public class PersonController {
                 new Person("Oleg",22),
                 new Person("Marina",25),
                 new Person("Olya",13)
+
         ));
         return "people";
     }
